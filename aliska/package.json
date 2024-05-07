@@ -76,7 +76,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chossopian/aliska.git"
+    "url": "https://github.com/chossopian/aliska"
   },
   "author": "",
   "license": "ISC",
